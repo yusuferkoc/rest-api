@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yusuferkoc/rest-api.git"
+  },
+  "author": "yusuf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusuferkoc/rest-api/issues"
+  },
+  "homepage": "https://github.com/yusuferkoc/rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
